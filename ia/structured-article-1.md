@@ -1,0 +1,37 @@
+---
+title: Dazzel and Delight
+author: Drs. Foster & Smith Educational 
+Staff
+subtitle: Dazzel and Delight
+date: 2013-09-09
+
+
+
+---
+![photo](http://www.drsfostersmith.com/images/articles/a_dazzle_26532_3.jpg)
+content : 
+
+bserve a hummingbird hover at your feeder just once – and you're hooked. You want to see more of them, more frequently. Acquaint yourself with their character and habits and you're sure to be more successful at attracting them.
+Be ready for them
+Do your homework and find out when to expect the spring return of hummingbirds in your area. Hang nectar feeders about 5-10 days before this date to ensure hummingbirds see them, take a drink, and are tempted to stay all season long. Remove feeders a couple weeks after you see your last visitors in the fall.
+
+Diffuse territorial behavior
+You've heard of the playground bully. Hummingbirds, especially males, often display the same kind of territorial and aggressive behavior over nectar sources. They are known to chase away competitors for the same feeder. A "bully" may be squelching feeding opportunities for other hummingbirds in your neighborhood.
+
+Diffuse this behavior by offering several feeders - in different locations around your yard. An aggressive male can't possibly defend them all. Placement is crucial. Be sure to locate feeders high enough to deter predators, but in plain sight near flowers or windows for a good view. Hummingbirds also like to have a branch nearby from which they can observe cautiously before approaching the feeder.
+
+"Mist"ify them
+Hummingbirds, like moths to a flame, can't refuse a mist of water. Have you ever witnessed one dive at your sprinkler, and then dart away shaking its feathers? Hummingbirds bathe like this several times each day.
+
+
+Observe this spectacular behavior more often. Place a mister or dripper into your birdbath. Misters require no electricity or complicated hookup; just connect them to your garden hose. Water usage is very minimal - a few gallons daily - especially important in areas where conservation is a concern.
+
+Honor their code of cleanliness
+Cleanliness is the most important aspect in attracting hummingbirds. They will quickly abandon a neglected feeder for a cleaner alternative. Depending on the outside temperature, nectar can spoil in as little as 2-5 days, causing fermentation and mold growth. Keep feeders shaded in extremely warm temperatures. Offer nectar only in quantities that can be consumed within a few days. Wash the feeder every time you take it down for a refill. To clean, use a mix of hot, soapy water. Scrub stubborn spots with a feeder mop or similar. Rinse thoroughly before refilling.
+
+Paint the sky red
+Hummingbirds are attracted to the bright red coloring on nectar feeders. If your feeder has no red coloring, simply tie red ribbons to the hanging wire. They'll find it. Dish style feeders often have perches so you can get a rare, motionless view of hummingbirds feeding. Gravity-fed feeders are generally known for their ease of filling and cleaning. Some feeders have a straw-like feeding tube, which does not offer pests, like wasps and bees, a place to land.
+
+
+
+http://www.drsfostersmith.com/pic/article.cfm?aid=1247
