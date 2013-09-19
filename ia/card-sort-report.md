@@ -44,10 +44,7 @@ The card sort was conducted by Jenny on September 12th between the times of 2 an
 
 ## Observations
 
-- Did the participants have any common comments?
-- Did they have questions that stood out?
-- Did they struggle with certain articles or topics?
-- Did they find common groupings? Or were the groupings completely different?
-- Were some of the groupings completely unexpected?
-- Were the results similar to your expectations?
-- How did you feel while watching them perform the task?
+The categories were very similar just with different names. 
+Nadia made a *diet* grouping which I hadn't even thought of.
+I was thinking more like lindsay with the *attracting hummingbirds* group.
+The results were similar to how I would've grouped them.
