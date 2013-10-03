@@ -31,7 +31,7 @@ Gabby is a young energenic girl who loves the outdoors. She is fascinated by bri
 
 ##What would help
 
-- having a website with facts and photos of hummingbirds
+- having a website to teach you how to attract different kinds of hummingbirds
 
 
 
@@ -39,7 +39,7 @@ Gabby is a young energenic girl who loves the outdoors. She is fascinated by bri
 ## Gavin
 *73, Male, retired*
 
-Gavin is a morning person, although he has to have his daily coffee to start the day. He Enjoys watching and studying birds, specifically hummingbirds. 
+Gavin is a morning person. He Enjoys watching and studying birds, specifically hummingbirds. 
 
 
 **Personal goals**
