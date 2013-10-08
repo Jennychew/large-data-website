@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>{% if page.title %}{{page.title}} · {%endif%}Uniforms{% if page.title == null %}—not every colour survives{% endif %}</title>
+<link href="css/general.css" rel="stylesheet">
+<link href="css/grid.css"rel="stylesheet">
+<meta name="handheldfriendly" content="true">
+<meta name="mobileoptimized" content="240">
+<meta name="viewport" content="width=device-width;initial-scale=1">
+</head>
+<body>
+
+<header>
+	<h2> Hummingbirds </h2>
+</header>
+
+	<div class="nav-left">
+		<nav class="nav">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Species</a></li>
+				<li><a href="#">Anatomy</a></li>
+				<li><a href="#">Attract</a></li>
+			</ul>
+		</nav>
+	</div>
+	
+	 {{content}}
+
+
+		
+		<footer>
+		<p> © Jenny Chew 2014 </p>
+		
+		</footer>
+	
+
+
+
+</body>
+</html>
