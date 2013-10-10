@@ -10,6 +10,30 @@ html {
 	font: normal 100%/1.5 sans-serif;
 }
 
+li {
+	display:inline-block;
+}
+
+header {
+		font-size:1em;
+}
+
+h2 {
+	margin-top:-20px;
+}
+
+.flex-img {
+	display: block;
+	width: 100%;
+}
+.flex-img-logo {
+	float:right;
+}
+
+.top-img {
+	margin-bottom:10px;
+}
+
 .nav-btn:hover,
 .nav-btn:focus,
 .nav-btn:active {
@@ -21,10 +45,7 @@ html {
 .nav {
 	margin: 0 -10px;
 	overflow: hidden;
-	padding: 0;
-
-
-	background-color: #606;
+	background-color: #635;
 }
 
 .nav > ul {
@@ -32,12 +53,14 @@ html {
 	overflow: hidden;
 	padding: 0.8rem 0;
 	list-style-type: none;
-	font-size: 1.25rem;
+	font-size: .825rem;
 }
+
 
 .nav li {
 		float: left;
 		width: 20%;
+		padding:10px;
 }
 	
 	
@@ -54,11 +77,28 @@ html {
 .nav a:hover,
 .nav a:focus,
 .nav a:active {
-	background-color:#636;
+	font-color:#636;
 	color: #fff;
 }
 
 
+footer {
+	background-color:#ccc;
+}
 
-@media only screen and (max-width: 20em) {
 
+@media only screen and (min-width: 23em) {
+	
+	.nav > ul {
+	font-size: 1.25rem;
+}
+
+}
+
+
+@media only screen and (min-width: 30em) {
+
+header {
+	font-size:2em;
+}
+}

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>{% if page.title %}{{page.title}} · {%endif%}Uniforms{% if page.title == null %}—not every colour survives{% endif %}</title>
+<title>Hummingbirds</title>
 <link href="css/general.css" rel="stylesheet">
 <link href="css/grid.css"rel="stylesheet">
 <meta name="handheldfriendly" content="true">
@@ -11,9 +11,16 @@
 </head>
 <body>
 
-<header>
-	<h2> Hummingbirds </h2>
-</header>
+<div class="main">
+	<div class="grid">
+		<div class="unit unit-s-1-3 unit-m-1-3 unit-l-2">
+		<li><img src="images/logo.svg" class="flex-img flex-img-logo" alt=""></li>
+		<li><header>
+			<h2> Hummingbirds </h2>
+		</header></li>
+		</div>
+	</div>
+</div>
 
 	<div class="nav-left">
 		<nav class="nav">
@@ -26,8 +33,7 @@
 		</nav>
 	</div>
 	
-	 {{content}}
-
+{{content}}
 
 		
 		<footer>
