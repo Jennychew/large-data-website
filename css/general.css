@@ -61,6 +61,7 @@ nav {
 .nav li {
 		float: left;
 		width: 20%;
+		padding:.3em;
 }
 	
 	
@@ -106,9 +107,9 @@ header {
 	font-size:2em;
 }
 }
-
 .search {
-	float:right;
+	color:#fff;
+	padding:.5em;
 }
 
 
