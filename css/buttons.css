@@ -1,0 +1,33 @@
+.btn {
+	padding: 0.7em 0.9em;
+	font-weight: bold;
+	color:#fff;
+	border-radius: 8px;
+	box-shadow: 0 1px 4px rgba (0, 0, 0, 0.5);
+	background-color: #903;
+	background-image: linear-gradient(to bottom, #903, #C03));
+	text-decoration:none;
+}
+
+.btn:hover {
+	background-color: #900;
+	background-image: linear-gradient(to bottom, #900, #903);
+}
+
+.btn-large{
+	font-size:1.25em;
+}
+
+.btn-small{
+	font-size:0.825em;
+}
+
+.btn-buy {
+	background-color: #3c3;
+	background-image: linear-gradient(to bottom, #3c3, #363);
+}
+
+.btn-buy:hover {
+	background-color: #3f3;
+	background-image: linear-gradient(to bottom, #3f3, #393);
+}

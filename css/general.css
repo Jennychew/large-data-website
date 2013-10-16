@@ -27,7 +27,6 @@ h2 {
 	text-align: center;
 }
 
-
 .flex-img {
 	display: block;
 	width: 100%;
@@ -89,12 +88,17 @@ nav {
 
 
 .main {
-	background-color:#666;
+	background-color:#903;
 }
 
 
 footer {
-	background-color:#ccc;
+	background-color:#903;
+	padding: 0.5em;
+}
+
+footer p {
+	color:#fff;
 }
 
 
@@ -117,9 +121,10 @@ header {
 
 }
 .search {
-	color:#999;
+	color:#fff;
 	padding:.5em;
 	float:right;
+	background-color:#903;
 }
 
 
