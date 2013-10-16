@@ -82,7 +82,7 @@ nav {
 }
 
 .main {
-	background-color:#903;
+	background-color:#666;
 }
 
 
@@ -110,21 +110,5 @@ header {
 .search {
 	float:right;
 }
-#q, #b { 
-   margin: 0 
-}
-#q { 
-   padding 5px; 
-   font-size: 2em; 
-   line-height: 30px 
-}
-#b { 
-   /* image replacement */
-   text-indent: -99999px; 
-   width: 30px; 
-   height: 30px; 
-   display: block;
-   background: gray url(button.png) 0 0 no-repeat;
-   position:absolute;
-}
+
 
