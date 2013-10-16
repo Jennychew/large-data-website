@@ -23,6 +23,11 @@ h2 {
 	color:#fff;
 }
 
+.center-objects {
+	text-align: center;
+}
+
+
 .flex-img {
 	display: block;
 	width: 100%;
@@ -82,6 +87,7 @@ nav {
 	color: #fff;
 }
 
+
 .main {
 	background-color:#666;
 }
@@ -98,6 +104,8 @@ footer {
 	font-size: 1.25rem;
 }
 
+
+
 }
 
 
@@ -106,10 +114,12 @@ footer {
 header {
 	font-size:2em;
 }
+
 }
 .search {
-	color:#fff;
+	color:#999;
 	padding:.5em;
+	float:right;
 }
 
 
