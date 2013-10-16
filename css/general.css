@@ -20,6 +20,7 @@ header {
 
 h2 {
 	margin-top:-20px;
+	color:#fff;
 }
 
 .flex-img {
@@ -37,15 +38,15 @@ h2 {
 .nav-btn:hover,
 .nav-btn:focus,
 .nav-btn:active {
-	background-color: #000;
+	background-color: #CCC;
 	background-position: 0 -40px;
 }
 
 
-.nav {
-	margin: 0 -10px;
-	overflow: hidden;
-	background-color: ##FFF#ffcdo5;
+nav {
+	display: block;
+	padding: 0;
+	margin: 0;
 }
 
 .nav > ul {
@@ -60,7 +61,6 @@ h2 {
 .nav li {
 		float: left;
 		width: 20%;
-		padding:10px;
 }
 	
 	
@@ -79,6 +79,10 @@ h2 {
 .nav a:active {
 	font-color:#636;
 	color: #fff;
+}
+
+.main {
+	background-color:#903;
 }
 
 
