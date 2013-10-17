@@ -1,1 +1,1 @@
-sitemap: http://https://github.com/Jennychew/large-data-website/sitmap.xml
+sitemap: http://jennychew.github.io/large-data-website/sitmap.xml

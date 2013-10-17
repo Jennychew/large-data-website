@@ -2,7 +2,25 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>{% if page.title %}{{page.title}} · {%endif%}hummingbirds of canada{% if page.title == null %}—not every colour survives{% endif %}</title>
+<title>{{page.title}}</title>
+
+<!-- Facebook -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Title of this page, same as <title>">
+<meta property="og:url" content="http://fullurl.com/to-this/page.html">
+<meta property="og:image" content="http://domain.com/img/image.jpg">
+<!-- Image size: minimum 200x200; recommended 1500x1500 -->
+<meta property="og:description" content="A small description, same as meta description">
+<meta property="og:site_name" content="Name of Website/Company">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary">
+<meta property="twitter:title" content="Title of this page, same as <title>">
+<meta property="twitter:url" content="http://fullurl.com/to-this/page.html">
+<meta property="twitter:image" content="http://domain.com/img/image.jpg">
+<!-- Image size: 120x120 -->
+<meta property="twitter:description" content="A small description, same as meta description">
+
 <link href="{{site.baseurl}}/css/general.css" rel="stylesheet">
 <link href="{{site.baseurl}}/css/grid.css"rel="stylesheet">
 <link href="{{site.baseurl}}/css/list-group.css"rel="stylesheet">
