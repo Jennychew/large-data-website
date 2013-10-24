@@ -58,7 +58,7 @@ nav {
 	margin: 0;
 }
 
-.nav > ul {
+a .nav > ul {
 	margin: 0;
 	overflow: hidden;
 	padding: 0.8rem 0;
