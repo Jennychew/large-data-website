@@ -24,7 +24,7 @@ header {
 		font-size:1em;
 }
 
-h2 {
+h1, h2 {
 	margin:0;
 	margin-left:1em;
 	color:#fff;
