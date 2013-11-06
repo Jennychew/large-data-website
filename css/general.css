@@ -52,12 +52,7 @@ h3 {
 	margin-bottom:10px;
 }
 
-.nav-btn:hover,
-.nav-btn:focus,
-.nav-btn:active {
-	background-color: #CCC;
-	background-position: 0 -40px;
-}
+
 
 .nav > ul {
 	font-size: 1rem;
@@ -69,6 +64,7 @@ nav {
 	padding: 0;
 	margin: 0;
 }
+
 
 a .nav > ul {
 	margin: 0;
@@ -102,6 +98,10 @@ a .nav > ul {
 	color: #fff;
 }
 
+.navbg {
+	margin-top:-4em;
+	background-color:#933;
+}
 
 .main {
 	background-color:#903;
@@ -110,6 +110,12 @@ a .nav > ul {
 
 .unit-right {
 	float:right;
+}
+
+
+.description {
+	background-color:#933;
+	color:#FFF;
 }
 
 footer {
