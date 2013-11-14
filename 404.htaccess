@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+</body>
+</html>
+
+ErrorDocument 404 /404.html
+    # You can specify pages for other error codes too
+    ErrorDocument 500 /500.html
