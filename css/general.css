@@ -5,10 +5,10 @@
 @viewport { wiidth: device-width; scale: 1; }
 
 html {
-	margin: 0;
+	margin:0;
 	padding: 0;
 	font: normal 100%/1.5 sans-serif;
-	min-width:200px;
+	min-width:240px;
 	background-color:#903;
 	background-image:url(../images/seamlesstexture15_1200.jpg);
 }
@@ -16,9 +16,16 @@ html {
 
 body {
 	max-width:700px;
-	margin:0 auto;
+	margin:0;
 }
 
+
+header {
+	background-color:#903;
+	font-size:1em;
+	text-align:center;
+	margin-bottom:.5em;
+}
 
 
 
@@ -36,9 +43,15 @@ body {
 	list-style-type: none;
 }
 
+.skiplinks li {
+	margin: 0;
+	padding: 0;
+}
+
 .skiplinks a,
 .skiplinks a:link,
 .skiplinks a:visited {
+	left: 0;
 	padding: 0.75em 1em;
 	position: absolute;
 	top: -10em;
@@ -77,25 +90,18 @@ a:focus {
 }
 
 .background {
-	margin-top:-3em;
- 	background: rgba(54, 25, 25, .2);
+ 	background:#903;
+
 }
 
-.background1 {
- 	background: rgba(54, 25, 25, .2);
-}
 
 .space {
 	margin-bottom:2em;
 }
 
 
-.specie {
-	margin-left:2em;
-	margin-top:1em;
-}
 
-li {
+nav li {
 	display:inline-block;
 	padding:10px;
 }
@@ -105,9 +111,6 @@ ul {
 	text-decoration:none;
 }
 
-header {
-		font-size:1em;
-}
 
 h1, h2 {
 	margin:0;
@@ -125,12 +128,12 @@ h4 {
 }
 
 
-
-
 h3 {
 	font-family: 'Oswald', sans-serif;
+	margin:0;
 	margin-bottom:1em;
 }
+
 
 .center-objects {
 	text-align: center;
@@ -154,10 +157,10 @@ h3 {
 }
 
 nav {
-	display: inline;
 	width: 100%;
 	padding: 0;
 	margin: 0;
+	background-color:#600;
 }
 
 
@@ -170,16 +173,12 @@ a .nav > ul {
 }
 
 
-.nav li {
-		padding:.3em;
-		display: inline;
-}
+
 	
 	
 .nav a,
 .nav a:link,
 .nav a:visited {
-	display:inline-block;
 	padding: 0.5rem 10px;
 	border: 0;
 	color: #e2e2e2;
@@ -224,6 +223,7 @@ a {
 footer {
 	background-color:#903;
 	padding: 0.5em;
+	width:100%;
 }
 
 footer p {
@@ -236,31 +236,28 @@ h4 {
 	margin-top:-1em;
 	font-size:2em;
 }
+.search {
+	color:#fff;
+	padding:.5em;
+	float:right;
+	background-color:#903;
+	right:0;
+}
 }
 
 
 @media only screen and (max-width: 23em) {
 	
 	.nav > ul {
-	font-size: 1.25rem;
+	font-size:.6em;
 }
 
-h1 {
-	font-size:2em;
-}
 
 }
 
 
 @media only screen and (min-width: 35em) {
 
-header {
-	font-size:2em;
-}
-
-h1 {
-	font-size:3em;
-}
 
 .homeparagraph {
 	font-size:1.5em;
@@ -273,22 +270,23 @@ h4 {
 	font-size:5em;
 }
 
+h1 {
+	font-size:4em;
+
 }
 
-@media only screen and (min-width: 38em) {
+@media only screen and (min-width: 42em) {
 
 h4 {
 	margin-top:.5em;
 }
+
+h1 {
+	font-size:5em;
 }
 
-
-.search {
-	color:#fff;
-	padding:.5em;
-	float:right;
-	background-color:#903;
 }
+
 
 
 
